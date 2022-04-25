@@ -20,3 +20,5 @@ In this betting game, player will have chance to choose between 0-10 turtles (ra
 Not at the moment
 
 
+### Final Outcome
+https://youtu.be/HLdci1VzHrU
